@@ -16,7 +16,7 @@ The BenchXAI pacakge is mainly build using [PyTorch](https://pytorch.org/),
 [Schikit-learn](https://scikit-learn.org/stable/) and [Captum](https://captum.ai/).
 
 #### Installation
-The package can simply be installed using pip with the source files in the [dist folder](). 
+The package can simply be installed using pip with the source files in the [dist folder](/dist/). 
 ````commandline
 pip install dist\benchxai-0.0.1.tar.gz
 ````
@@ -41,4 +41,4 @@ The fourth and last step is the evaluation of all results.
   <img width="850" src=images/BenchXAI_Workflow.png>
 </div>
 
-Example code for running the benchmark can be found in the [examples folder](https://gitlab.gwdg.de/jacquelinemichelle.beinecke/doctor/-/blob/main/benchXAI/examples/).
+Example code for running the benchmark can be found in the [examples folder](/examples/).
