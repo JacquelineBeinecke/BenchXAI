@@ -41,4 +41,4 @@ The fourth and last step is the evaluation of all results.
   <img width="850" src=images/BenchXAI_Workflow.png>
 </div>
 
-Example code for running the benchmark can be found in the [examples folder](https://gitlab.gwdg.de/jacquelinemichelle.beinecke/doctor/-/blob/main/benchXAI/examples/).
+Example code for running the benchmark can be found in the [examples folder](/examples/).
