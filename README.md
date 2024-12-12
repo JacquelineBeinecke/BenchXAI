@@ -16,7 +16,7 @@ The BenchXAI pacakge is mainly build using [PyTorch](https://pytorch.org/),
 [Schikit-learn](https://scikit-learn.org/stable/) and [Captum](https://captum.ai/).
 
 #### Installation
-The package can simply be installed using pip with the source files in the [dist folder](). 
+The package can simply be installed using pip with the source files in the [dist folder](/dist/). 
 ````commandline
 pip install dist\benchxai-0.0.1.tar.gz
 ````
