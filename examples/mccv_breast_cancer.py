@@ -78,7 +78,7 @@ bench_xai.mccv_loop(result_path=os.path.join(root, 'results'), data=dataset, dat
                     data_type=data_type, model=nn_model, model_type="pytorch", loss_func=loss, epochs=epochs,
                     batchsize=batchsize, opti=opti, mccv_start_iteration=0, mccv_end_iteration=100,
                     validation_split=0.2, test_samples=50, random_seed=42,
-                    xai_methods=bench_xai.AVAILABLE_XAI_MODELS, train=True, device=device)
+                    xai_methods=bench_xai.AVAILABLE_XAI_MODELS, train=True, config_path=os.path.join(root, "example_xai_config.cfg"), device=device)
 
 # start training logistic regression -------------------------------------------------------------
 bench_xai.mccv_loop(result_path=os.path.join(root, 'results'), data=dataset, dataset_name=dataset_name,
