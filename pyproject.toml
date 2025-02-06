@@ -1,5 +1,5 @@
 [project]
-name = "BenchXAI"
+name = "bench_xai"
 version = "0.0.1"
 authors = [
   { name="Jacqueline Metsch", email="jacquelinemichelle.beinecke@med.uni-goettingen.de" },
